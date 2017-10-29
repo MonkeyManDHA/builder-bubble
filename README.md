@@ -1,5 +1,6 @@
 # builder-bubble
 The Builder Bubble Ark Mod adds a new building mechanic to the game.
+Copyright (C) 2017 Joshua Green
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
